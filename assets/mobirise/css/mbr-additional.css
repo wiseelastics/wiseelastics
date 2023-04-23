@@ -1500,11 +1500,11 @@ a {
 .cid-tC1LvVQ1Nq {
   padding-top: 150px;
   padding-bottom: 150px;
-  background-image: url("../../../assets/images/weld3-1366x768.jpg");
+  background-image: url("../../../assets/images/untitled-design1-1366x768.png");
 }
 .cid-tC1LvVQ1Nq .mbr-overlay {
-  background-color: #353535;
-  opacity: 0;
+  background-color: #000000;
+  opacity: 0.6;
 }
 @media (max-width: 992px) {
   .cid-tC1LvVQ1Nq {
@@ -1550,6 +1550,7 @@ a {
   padding: 0.5rem 1rem;
   position: relative;
   margin-bottom: 2rem;
+  color: #ffffff;
 }
 .cid-tC1LvVQ1Nq .mbr-main-subtitle:before {
   content: '';
@@ -1662,7 +1663,7 @@ a {
   color: #ffffff;
 }
 .cid-tC1LvVQ1Nq .mbr-section-title {
-  color: #1a72b9;
+  color: #ffffff;
 }
 .cid-tC1LvVQ1Nq .soc-link,
 .cid-tC1LvVQ1Nq .soc-wrapper {
