@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "WISE ELASTICS",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -54,7 +54,7 @@
     "imageResize": true,
     "chatbutton": {},
     "favicon": "@PROJECT_PATH@/assets/images/1-128x128.png",
-    "mbrsiteDomain": "xuokqnhjh7",
+    "mbrsiteDomain": "mbkg5kenhi",
     "usedWebp": false,
     "cssOptimize": false,
     "lazyLoad": false,
@@ -80,7 +80,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "Trust Wise Elastics for all your HDPE Piping needs - butt welding, installations & distribution. We provide the best quality service with unbeatable prices. Get your HDPE Piping projects done right the first time!",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -1235,7 +1235,8 @@
     "page2.html": {
       "settings": {
         "title": "Products",
-        "order": "1"
+        "order": "1",
+        "meta_descr": "HDPE piping installations, butt welding and distribution. Get quality HDPE piping from the experts."
       },
       "components": [
         {
