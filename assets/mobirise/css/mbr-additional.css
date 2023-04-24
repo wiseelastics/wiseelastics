@@ -1218,6 +1218,7 @@ a {
 }
 .cid-tC1o1WeAJ8 .card2-title {
   color: #ffffff;
+  text-align: center;
 }
 .cid-tC1o1WeAJ8 .card3-title {
   color: #ffffff;
@@ -1433,7 +1434,7 @@ a {
 .cid-tC2WinbMOi {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background: #fafafa;
+  background: #dddddd;
 }
 @media (min-width: 1400px) {
   .cid-tC2WinbMOi .container {
