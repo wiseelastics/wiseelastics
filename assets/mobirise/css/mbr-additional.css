@@ -1963,7 +1963,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-tC1OHWB4zS .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 8rem);
+    max-height: calc(98.5vh - 3.5rem);
   }
 }
 .cid-tC1OHWB4zS .navbar.collapsed .dropdown-menu .dropdown-submenu {
